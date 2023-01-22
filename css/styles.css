@@ -69,8 +69,8 @@ section {
     margin: 0;
     text-align: left;
 	display: flex;
-        	align-items: left;
-        	justify-content: left;
+        	align-items: right;
+        	justify-content: right;
         	position: sticky;
         	top: 0;
         	cursor: pointer;
