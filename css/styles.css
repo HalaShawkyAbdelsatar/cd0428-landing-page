@@ -67,10 +67,10 @@ section {
 .navbar__menu ul {
     padding-left: 0;
     margin: 0;
-    text-align: right;
+    text-align: left;
 	display: flex;
-        	align-items: right;
-        	justify-content: right;
+        	align-items: left;
+        	justify-content: left;
         	position: sticky;
         	top: 0;
         	cursor: pointer;
