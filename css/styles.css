@@ -71,11 +71,11 @@ section {
 }
 
 .navbar__menu li {
-    display: inline-block;
+    display:flex;
 }
 
 .navbar__menu .menu__link {
-    display: block;
+    display: flex;
     padding: 1em;
     font-weight: bold;
     text-decoration: none;
