@@ -68,6 +68,13 @@ section {
     padding-left: 0;
     margin: 0;
     text-align: right;
+	display: flex;
+        	align-items: right;
+        	justify-content: right;
+        	position: sticky;
+        	top: 0;
+        	cursor: pointer;
+	
 }
 
 .navbar__menu li {
